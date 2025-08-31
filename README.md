@@ -30,17 +30,3 @@
 </p>
 
 ---
-
-### 🌱 About Me  
-- 🔭 I’m currently learning **Backend Development** (Node.js, Express, MongoDB, AWS)  
-- 🤝 I’m looking to collaborate on **open-source backend projects**  
-- ⚡ Fun fact: *I believe coding is like working out — progress comes with consistency 💪*  
-
----
-
-### 📫 Connect with me  
-<p align="left">
-  <a href="mailto:example@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/honggunwoo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://velog.io/@honggunwoo"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-</p>
