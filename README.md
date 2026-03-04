@@ -1,9 +1,9 @@
-<h1 align="left">Hi 👋, I'm honggunwoo</h1>
-<h3 align="left">Welcome to my GitHub page! 🚀</h3>
+<h1 align="left">Hi I'm honggunwoo</h1>
+<h3 align="left">Welcome to my GitHub page!</h3>
 
 ---
 
-### 🔧 Languages & Tools  
+###  Languages & Tools  
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
